@@ -1,3 +1,6 @@
 # python
-Python tutorials for absolute beginners
-It contains all the basics and simple program of Python and will be helpful who is starting to learn code.
+Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.
+In this repository, we will go through step by step in depth of Python that makes easy to learn.
+
+Best of luck
+Thank you
